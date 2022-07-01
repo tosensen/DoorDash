@@ -285,7 +285,7 @@ footer {
 	padding-top: 50px;
 }
 table {
-	margin-left: -50px;
+	margin-left: -300px;
 }
 
 tr,
@@ -329,6 +329,8 @@ td.footerlinks a:hover {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	border-radius: 2px;
+	border-spacing: 2px;
 }
 
 .footernav a {
