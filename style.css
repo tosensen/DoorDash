@@ -295,7 +295,7 @@ td {
 
 td.th {
 	font-size: 16px;
-	line-height: 22px;
+	line-height: 35px;
 	color: white;
 	text-align: left;
 	padding-top: 10px;
@@ -325,12 +325,11 @@ td.footerlinks a:hover {
 }
 
 .imgdiv {
-	text-align: left;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	border-radius: 2px;
-	border-spacing: 2px;
+  border: 2px solid rgb(23, 14, 14);
+  border-radius: 5px 25px;
+  display: flex;
+  flex-direction: column;
+  border-width: 7px;
 }
 
 .footernav a {
@@ -377,7 +376,7 @@ td.footerlinks a:hover {
 
 .footerp {
 	font-size: 16px;
-	line-height: 22px;
+	line-height: 35px;
 	color: white;
 	text-align: left;
 	padding-bottom: 0px;
